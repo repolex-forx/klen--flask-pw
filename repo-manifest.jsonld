@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/flask-pw/commit/04d7846f0c89f2b2331b238b1c8223368c2a40a7",
       "git:hexsha": "04d7846f0c89f2b2331b238b1c8223368c2a40a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/flask-pw/commit/cc2e1ac7a69b9f5b6f9c3059cfdee066a814d861",
